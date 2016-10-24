@@ -1,0 +1,45 @@
+
+
+
+.mainpic {
+    display: block;
+    margin: auto;
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+.mainbody {
+
+  margin: 20px 150px;
+  background-color: rgb(242, 241, 241)
+}
+
+.aboutdilla {
+  margin: 20px 180px;
+}
+
+.youtube {
+
+    position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; }
+
+.youtube iframe, .youtube object, .youtube embed {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+}
+
+h2 {
+  text-align: center;
+}
+
+.viddescript {
+  margin: 10px 50px 30px 50px;
+  padding-bottom: 20px;
+}
+
+.panel {
+  text-align: center
+}
